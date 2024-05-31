@@ -1,0 +1,13 @@
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\obj\Debug\net8.0\MyApp.ServiceModel.csproj.AssemblyReference.cache
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\obj\Debug\net8.0\MyApp.ServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\obj\Debug\net8.0\MyApp.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\obj\Debug\net8.0\MyApp.ServiceModel.AssemblyInfo.cs
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\obj\Debug\net8.0\MyApp.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\obj\Debug\net8.0\EFCoreNpgsqlNodaTime.cs
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\bin\Debug\net8.0\MyApp.ServiceModel.deps.json
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\bin\Debug\net8.0\MyApp.ServiceModel.dll
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\bin\Debug\net8.0\MyApp.ServiceModel.pdb
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\obj\Debug\net8.0\MyApp.ServiceModel.dll
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\obj\Debug\net8.0\refint\MyApp.ServiceModel.dll
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\obj\Debug\net8.0\MyApp.ServiceModel.pdb
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp.ServiceModel\obj\Debug\net8.0\ref\MyApp.ServiceModel.dll
