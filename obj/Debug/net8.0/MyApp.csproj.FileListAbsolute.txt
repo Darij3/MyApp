@@ -51,3 +51,4 @@ C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp\obj\Debug\net8.0\
 C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp\obj\Debug\net8.0\MyApp.pdb
 C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
 C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp\obj\Debug\net8.0\ref\MyApp.dll
+C:\Users\Darja\Downloads\selfhost-master\selfhost-master\MyApp\obj\Debug\net8.0\MyApp.sourcelink.json
